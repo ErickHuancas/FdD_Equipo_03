@@ -33,7 +33,7 @@ Además, existen proyectos tecnológicos de código abierto que permiten detecta
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/erick.jpeg" width="90"/> | **Erik Huancas** | Líder del equipo | Innovación social, sostenibilidad, liderazgo, emprendedor |
+| <img src="/Recursos/Imágenes/erick.jpeg" width="90"/> | **Erick Huancas** | Líder del equipo | Innovación social, sostenibilidad, liderazgo, emprendedor |
 | <img src="/Recursos/Imágenes/Suazo.jpeg" width="90"/> | **Rose Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario, investigación cientifica |
 | <img src="/Recursos/Imágenes/Miguel.jpeg" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada, impacto ambiental |
 | <img src="/Recursos/Imágenes/Paloma.jpeg" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica, investigación |
