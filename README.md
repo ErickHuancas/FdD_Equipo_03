@@ -9,16 +9,15 @@ Somos el **Equipo 03** del curso **Fundamentos de Diseño 2026-1**, conformado p
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 6: Agua Limpia y Saneamiento 
-Este ODS busca garantizar la disponibilidad de agua potable y su gestión sostenible, ya que se trata de un derecho fundamental; sin embargo, alrededor de 1,800 millones de personas en el mundo aún no tienen acceso a este recurso. Asimismo, incluye el tratamiento de aguas residuales, la reducción de la contaminación hídrica y el acceso a servicios de saneamiento adecuados.
-- ODS 9: Industria, Innovación e Infraestructura
-Este ODS busca mejorar las infraestructuras, promover el uso de la tecnología y fomentar soluciones innovadoras para resolver problemas reales. Aunque la tecnología ha avanzado, aún existen muchas zonas donde el acceso es limitado, lo que afecta el desarrollo y la productividad. Por ello, este ODS impulsa la creación de soluciones prácticas, accesibles y sostenibles que mejoren la eficiencia y reduzcan el impacto ambiental.
+- ODS 2 **Hambre Cero** 
+
+- ODS 11 **Ciudades y comunidades Sostenibles**
+
 - ODS 12 **Producción y Consumo Responsable**
 Este ODS garantiza un consumo y producción sostenible que es de gran importancia para la subsistencia de las generaciones presentes y futuras. Como grupo queremos abordar la tercera meta que involucra este objetivo de desarrollo sostenible, que es poder reducir a la mitad el desperdicio de alimentos per cápita mundial. Según un estudio publicado en la revista científica Sustainability, en el Perú el promedio de pérdidas y desechos de alimentos equivale a 12.8 millones de toneladas al año, lo que representa el 47.6% del total de alimentos con los que cuenta el país anualmente . Esto significa que casi la mitad de los alimentos producidos en el Perú nunca llegan a ser consumidos. En términos per cápita, cada peruano desperdicia en promedio 67.34 kilogramos de comida al año solo en la etapa de consumo en los hogares. Sumado a esto nos dice la FAO que más de 17 millones de peruanos viven en situación de inseguridad alimentaria moderada o grave . Es decir, mientras casi la mitad de los alimentos se desperdician, más de la mitad de la población tiene dificultades para acceder a tres comidas al día. Como señaló la gerente del Banco de Alimentos Perú, "si se gestionaran adecuadamente los alimentos, dos millones de peruanos podrían alimentarse". Existen varios proyectos que contribuyen al cumplimiento de este ODS. A nivel internacional, destaca la plataforma Too Good To Go, una aplicación que conecta a consumidores con restaurantes y supermercados para comprar a precio reducido los alimentos que no se vendieron al cierre del día, evitando que terminen en la basura. Esta iniciativa ha logrado salvar más de 500 millones de comidas a nivel global, demostrando cómo la tecnología puede ser una aliada en la reducción del desperdicio alimentario.
 Además, existen proyectos tecnológicos de código abierto que permiten detectar la descomposición de alimentos de manera temprana. Un ejemplo es el "IoT-based Food Spoilage Detection System" desarrollado por Mohammed Kaif en GitHub.
 
-- ODS 14: Vida Submarina
-Su objetivo consiste en salvaguardar y aprovechar los océanos, mares y recursos marinos de forma sostenible. Su propósito es proteger los ecosistemas acuáticos, disminuir la contaminación, evitar que las especies marinas sean explotadas en exceso y asegurar que los océanos continúen siendo fuentes de vida, comida y bienestar para las generaciones actuales y futuras
+- ODS 13 **Acción Por el Clima**
 
 ---
 
