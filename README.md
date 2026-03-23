@@ -47,6 +47,8 @@ Ejemplos de soluciones:
 
 Este ODS promueve un modelo de consumo y producción sostenible, fundamental para las generaciones presentes y futuras.
 
+Nuestro grupo promueve abordar la tercera meta que involucra este ODS que es poder reducir a la mitad el desperdicio de alimentos de alimentos per cápita en zonas rurales del Perú.
+
 En el Perú:
 - Se desperdician 12.8 millones de toneladas de alimentos al año (47.6% del total).
 - Cada persona desperdicia en promedio 67.34 kg de alimentos al año.
