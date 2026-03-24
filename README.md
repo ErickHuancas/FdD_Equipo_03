@@ -70,7 +70,7 @@ El desperdicio de alimentos contribuye significativamente al calentamiento globa
 La implementación de tecnologías sostenibles, el uso eficiente de recursos y la educación ambiental son claves para enfrentar esta problemática.
 
 ## 📚 Fuentes
- -world Vision Perú. (2024, diciembre 10). Inseguridad alimentaria en Perú: Un desafío para la niñez.
+ -World Vision Perú. (2024, diciembre 10). Inseguridad alimentaria en Perú: Un desafío para la niñez.
 ---
 
 ## 📸 Fotografía del Equipo  
