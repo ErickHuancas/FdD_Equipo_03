@@ -63,11 +63,15 @@ Ejemplos de soluciones:
 
 ## 🌍 ODS 13: Acción por el Clima
 
-Este ODS busca adoptar medidas urgentes para combatir el cambio climático y sus efectos.
+Según el Ministerio del Ambiente, el Perú solo genera alrededor del 0.4% de los gases de efecto invernadero a nivel mundial. Sin embargo, es considerado el tercer país más vulnerable frente al cambio climático. Esta vulnerabilidad se refleja en distintos desastres naturales que afectan directamente a la población. Entre los años 2008 y 2019, aproximadamente 656,000 personas se vieron obligadas a abandonar sus hogares, perdiendo no solo sus viviendas, sino también sus medios de sustento.
 
-El desperdicio de alimentos contribuye significativamente al calentamiento global debido a la emisión de gases como el metano. Reducir estas pérdidas no solo mejora la seguridad alimentaria, sino que también disminuye el impacto ambiental.
+Frente a esta situación, el ODS 13 tiene como propósito principal tomar medidas urgentes para combatir el cambio climático y reducir sus impactos. Nuestro proyecto aborda específicamente la meta 13.1, que busca fortalecer la resiliencia y la capacidad de adaptación a los riesgos climáticos, contribuyendo a reducir el desperdicio de alimentos y, con ello, las emisiones de metano generadas por residuos orgánicos en vertederos.
 
-La implementación de tecnologías sostenibles, el uso eficiente de recursos y la educación ambiental son claves para enfrentar esta problemática.
+Algunos ejemplos de proyectos que contribuyen a este objetivo son:
+
+- El Copernicus Programme, impulsado por la Unión Europea, que utiliza satélites y sensores para observar la Tierra en tiempo real y proporcionar datos abiertos sobre el medio ambiente.
+
+- En El Salvador, se desarrolló un sistema IoT de bajo costo que permite monitorear la calidad del aire y acceder a información sobre la contaminación desde cualquier dispositivo con conexión a internet.
 
 ## 📚 Fuentes
  
