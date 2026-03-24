@@ -73,13 +73,11 @@ Algunos ejemplos de proyectos que contribuyen a este objetivo son:
 
 - En El Salvador, se desarrolló un sistema IoT de bajo costo que permite monitorear la calidad del aire y acceder a información sobre la contaminación desde cualquier dispositivo con conexión a internet.
 
-<br>
+## 📚 Fuentes
 
-**📚 Fuentes**
+Visión Mundial Perú. (2024, 10 de diciembre). Inseguridad alimentaria en Perú.
 
-- Visión Mundial Perú. (2024, 10 de diciembre). Inseguridad alimentaria en Perú.
-- 
-- 
+
 ---
 
 ## 📸 Fotografía del Equipo  
