@@ -75,6 +75,12 @@ Algunos ejemplos de proyectos que contribuyen a este objetivo son:
 
 ## 📚 Fuentes
 
+Alicante, N. U. de. (2024). NANOBIOPOL (Grupo de investigación de Análisis de Polímeros y Nanomateriales)
+CH4 Pathways. (s/f). Captura del gas de rellenos sanitarios
+Coca Pimentel, V. (2023, septiembre 23). Contaminación del aire en Perú: El 58% proviene del parque automotor.
+Comex.Perú. (2022, febrero 11). Solo aprovechamos el 1% de residuos orgánicos e inorgánicos que generamos.
+Dirección de Estudios Económicos & Dirección General de Políticas Agrarias. (2022). Pérdidas y desperdicios de alimentos en el Perú. 
+MINAM. (2024, mayo 16). Más de 148 500 toneladas de residuos sólidos municipales son valorizados en el país.
 Visión Mundial Perú. (2024, 10 de diciembre). Inseguridad alimentaria en Perú.
 
 
