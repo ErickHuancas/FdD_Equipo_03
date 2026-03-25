@@ -95,7 +95,7 @@ Visión Mundial Perú. (2024, 10 de diciembre). Inseguridad alimentaria en Perú
 | <img src="/Recursos/Imágenes/erick.jpeg" width="90"/> | **Erick Huancas** | Líder del equipo | Innovación social, sostenibilidad, liderazgo, emprendedor |
 | <img src="/Recursos/Imágenes/Rose.jpeg" width="90"/> | **Rose Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario, investigación cientifica |
 | <img src="/Recursos/Imágenes/Miguel.jpeg" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada, impacto ambiental |
-| <img src="/Recursos/Imágenes/Paloma.jpeg" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica, investigación |
+| <img src="/Recursos/Imágenes/WhatsApp Image 2026-03-24 at 9.22.39 PM.jpeg" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica, investigación |
 | <img src="/Recursos/Imágenes/Jeremy.jpeg" width="90"/> | **Jeremy Mendez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
