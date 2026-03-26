@@ -73,6 +73,16 @@ Algunos ejemplos de proyectos que contribuyen a este objetivo son:
 
 - En El Salvador, se desarrolló un sistema IoT de bajo costo que permite monitorear la calidad del aire y acceder a información sobre la contaminación desde cualquier dispositivo con conexión a internet.
 
+## 📉 Problemática en el Perú
+
+En el Perú, millones de toneladas de alimentos se pierden a lo largo la cadena de suministro, donde el 44% de la merma son frutas y vegetales (5,6 millones de toneladas al año). Esto constituye a una problemática desafiante llamada “Desperdicio de alimento”, lo cual impacta negativamente en la seguridad alimentaria y la nutrición, y contribuye significativamente a las emisiones de gases de efecto invernadero (metano).
+
+## 💡 Proyecto
+
+Sistema de Detección de Gases y Visión por IA para Monitoreo de Frescura en Tomates
+
+Nuestro proyecto consiste en un dispositivo tecnológico portátil que combina un sensor de gases (MQ-135) y una cámara con inteligencia artificial (ESP32-CAM) para monitorear en tiempo real el estado de frescura del tomate. El sistema detecta los gases de descomposición (como amoníaco y compuestos volátiles) liberados por el tomate al comenzar a deteriorarse, mientras que la inteligencia artificial captura y analiza visualmente el entorno del tomate (color, textura, manchas) para clasificarlo como "fresco" o "podrido". Este enfoque multisensor (gas + visión) permite una detección más precisa y temprana del deterioro, ayudando a agricultores, comerciantes y consumidores a tomar decisiones oportunas para reducir el desperdicio de tomates en mercados mayoristas y hogares peruanos, contribuyendo así a los ODS 2 (Hambre Cero), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima) .
+
 ## 📚 Fuentes
 
 Alicante, N. U. de. (2024). NANOBIOPOL (Grupo de investigación de Análisis de Polímeros y Nanomateriales)
