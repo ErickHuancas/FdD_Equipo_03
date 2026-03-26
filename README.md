@@ -84,10 +84,18 @@ Coca Pimentel, V. (2023, septiembre 23). Contaminación del aire en Perú: El 58
 Comex.Perú. (2022, febrero 11). Solo aprovechamos el 1% de residuos orgánicos e inorgánicos que generamos.
 
 Dirección de Estudios Económicos & Dirección General de Políticas Agrarias. (2022). Pérdidas y desperdicios de alimentos en el Perú. 
+
 MINAM. (2024, mayo 16). Más de 148 500 toneladas de residuos sólidos municipales son valorizados en el país.
 
 Visión Mundial Perú. (2024, 10 de diciembre). Inseguridad alimentaria en Perú.
 
+AgroPerú Informa. (2025, septiembre 23). Pérdida y desperdicio de alimentos: un reto que exige innovación y colaboración.
+
+La República. (2021, marzo 20). En el Perú, la mitad de los alimentos termina en la basura, según estudio.
+
+IoT M2M Council. (2021, marzo 17). Infarm launches new vertical farming centres. Hasib, A., & Sarkar Akib, A. S. M. A. (2026).
+
+An IoT-based smart plant monitoring and irrigation system with real-time environmental sensing, automated alerts, and cloud analytics. arXiv.
 
 ---
 
