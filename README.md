@@ -1,7 +1,6 @@
 # Equipo 03 - Fundamentos de Diseño
 ### Carrera de Ingeniería Informática, Industrial  y Ambiental
 **Universidad Peruana Cayetano Heredia**
-
 ---
 
 ## 🌍 Descripción del Equipo  
@@ -62,7 +61,6 @@ Ejemplos de soluciones:
 - Sistemas IoT para detectar la descomposición temprana de alimentos.
 
 ## 🌍 ODS 13: Acción por el Clima
-
 Según el Ministerio del Ambiente, el Perú solo genera alrededor del 0.4% de los gases de efecto invernadero a nivel mundial. Sin embargo, es considerado el tercer país más vulnerable frente al cambio climático. Esta vulnerabilidad se refleja en distintos desastres naturales que afectan directamente a la población. Entre los años 2008 y 2019, aproximadamente 656,000 personas se vieron obligadas a abandonar sus hogares, perdiendo no solo sus viviendas, sino también sus medios de sustento.
 
 Frente a esta situación, el ODS 13 tiene como propósito principal tomar medidas urgentes para combatir el cambio climático y reducir sus impactos. Nuestro proyecto aborda específicamente la meta 13.1, que busca fortalecer la resiliencia y la capacidad de adaptación a los riesgos climáticos, contribuyendo a reducir el desperdicio de alimentos y, con ello, las emisiones de metano generadas por residuos orgánicos en vertederos.
@@ -73,16 +71,17 @@ Algunos ejemplos de proyectos que contribuyen a este objetivo son:
 
 - En El Salvador, se desarrolló un sistema IoT de bajo costo que permite monitorear la calidad del aire y acceder a información sobre la contaminación desde cualquier dispositivo con conexión a internet.
 
+---
 ## 📉 Problemática en el Perú
 
 En el Perú, millones de toneladas de alimentos se pierden a lo largo la cadena de suministro, donde el 44% de la merma son frutas y vegetales (5,6 millones de toneladas al año). Esto constituye a una problemática desafiante llamada “Desperdicio de alimento”, lo cual impacta negativamente en la seguridad alimentaria y la nutrición, y contribuye significativamente a las emisiones de gases de efecto invernadero (metano).
-
+---
 ## 💡 Proyecto
 
 Sistema de Detección de Gases y Visión por IA para Monitoreo de Frescura en Tomates
 
 Nuestro proyecto consiste en un dispositivo tecnológico portátil que combina un sensor de gases (MQ-135) y una cámara con inteligencia artificial (ESP32-CAM) para monitorear en tiempo real el estado de frescura del tomate. El sistema detecta los gases de descomposición (como amoníaco y compuestos volátiles) liberados por el tomate al comenzar a deteriorarse, mientras que la inteligencia artificial captura y analiza visualmente el entorno del tomate (color, textura, manchas) para clasificarlo como "fresco" o "podrido". Este enfoque multisensor (gas + visión) permite una detección más precisa y temprana del deterioro, ayudando a agricultores, comerciantes y consumidores a tomar decisiones oportunas para reducir el desperdicio de tomates en mercados mayoristas y hogares peruanos, contribuyendo así a los ODS 2 (Hambre Cero), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima) .
-
+---
 ## 📚 Fuentes
 
 Alicante, N. U. de. (2024). NANOBIOPOL (Grupo de investigación de Análisis de Polímeros y Nanomateriales)
