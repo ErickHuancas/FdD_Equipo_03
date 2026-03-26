@@ -29,6 +29,7 @@ A nivel tecnológico, destacan:
 - Crop Analytica, que emplea sistemas IoT para monitorear cultivos en tiempo real.
 - Infarm, que implementa agricultura urbana con sensores en granjas verticales, reduciendo el uso de agua hasta en un 90–95%.
 
+
 ## 🏙️ ODS 11: Ciudades y Comunidades Sostenibles
 
 Según el World Air Quality Report 2022, Perú se encuentra entre los países con mayor contaminación del aire en Latinoamérica.
@@ -73,11 +74,13 @@ Algunos ejemplos de proyectos que contribuyen a este objetivo son:
 
 - En El Salvador, se desarrolló un sistema IoT de bajo costo que permite monitorear la calidad del aire y acceder a información sobre la contaminación desde cualquier dispositivo con conexión a internet.
 
+---
 
 ## 📉 Problemática en el Perú
 
 En el Perú, millones de toneladas de alimentos se pierden a lo largo la cadena de suministro, donde el 44% de la merma son frutas y vegetales (5,6 millones de toneladas al año). Esto constituye a una problemática desafiante llamada “Desperdicio de alimento”, lo cual impacta negativamente en la seguridad alimentaria y la nutrición, y contribuye significativamente a las emisiones de gases de efecto invernadero (metano).
 
+ ---
 
 ## 💡 Proyecto
 
