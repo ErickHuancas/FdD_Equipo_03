@@ -88,6 +88,7 @@ Sistema de Detección de Gases y Visión por IA para Monitoreo de Frescura en To
 
 Nuestro proyecto consiste en un dispositivo tecnológico portátil que combina un sensor de gases (MQ-135) y una cámara con inteligencia artificial (ESP32-CAM) para monitorear en tiempo real el estado de frescura del tomate. El sistema detecta los gases de descomposición (como amoníaco y compuestos volátiles) liberados por el tomate al comenzar a deteriorarse, mientras que la inteligencia artificial captura y analiza visualmente el entorno del tomate (color, textura, manchas) para clasificarlo como "fresco" o "podrido". Este enfoque multisensor (gas + visión) permite una detección más precisa y temprana del deterioro, ayudando a agricultores, comerciantes y consumidores a tomar decisiones oportunas para reducir el desperdicio de tomates en mercados mayoristas y hogares peruanos, contribuyendo así a los ODS 2 (Hambre Cero), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima) .
 
+---
 
 ## 📚 Fuentes
 
