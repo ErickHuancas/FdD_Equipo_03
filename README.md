@@ -136,7 +136,7 @@ An IoT-based smart plant monitoring and irrigation system with real-time environ
 | <img src="/Recursos/Imágenes/Rose.jpeg" width="90"/> | **Rose Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario, investigación cientifica |
 | <img src="/Recursos/Imágenes/Miguel.jpeg" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada, impacto ambiental |
 | <img src="/Recursos/Imágenes/Paloma.jpeg" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica, investigación |
-| <img src="/Recursos/Imágenes/Jeremy.jpeg" width="90"/> | **milo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Jeremy.jpeg" width="90"/> | **Jeremy Mendez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
