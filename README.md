@@ -78,7 +78,11 @@ Algunos ejemplos de proyectos que contribuyen a este objetivo son:
 
 ## 📉 Problemática en el Perú
 
-En el Perú, millones de toneladas de alimentos se pierden a lo largo la cadena de suministro, donde el 44% de la merma son frutas y vegetales (5,6 millones de toneladas al año). Esto constituye a una problemática desafiante llamada “Desperdicio de alimento”, lo cual impacta negativamente en la seguridad alimentaria y la nutrición, y contribuye significativamente a las emisiones de gases de efecto invernadero (metano).
+En el Perú, millones de toneladas de alimentos se pierden a lo largo de la cadena de suministro, donde el 44% de la merma son frutas y vegetales (5,6 millones de toneladas al año). Esto constituye una problemática desafiante llamada “Desperdicio de alimentos”, lo cual impacta negativamente en la seguridad alimentaria y la nutrición, y contribuye significativamente a las emisiones de gases de efecto invernadero (metano).
+
+El tomate, siendo uno de los alimentos que sostiene la economía agrícola del país, principalmente en Ica y Lima, es de los alimentos más afectados por esta problemática. Más del 40% de la producción de tomates se pierde y desecha entre la etapa de cultivo hasta su distribución.
+
+Somos un grupo de estudiantes enfocados y comprometidos en el desarrollo de soluciones aplicadas a problemas ambientales, como lo es el desperdicio de alimentos. Por tal motivo, nuestro equipo sugiere esta nueva propuesta innovadora en la que integra tecnología y sostenibilidad para hacer frente a esta adversidad medioambiental.
 
  ---
 
