@@ -24,7 +24,7 @@ En la costa peruana, especialmente en las principales zonas productoras como Ica
 
 1. **Pérdidas por maduración acelerada y reducción de vida útil**
    
-  La palta es una fruta climatérica que continúa su proceso de maduración después de la cosecha. Las temperaturas elevadas durante el almacenamiento y transporte    aceleran este proceso, reduciendo drásticamente su vida útil.
+   La palta es una fruta climatérica que continúa su proceso de maduración después de la cosecha. Las temperaturas elevadas durante el almacenamiento y               transporte aceleran este proceso, reduciendo drásticamente su vida útil.
 
 2. **Deterioro por almacenamiento inadecuado y exposición a condiciones variables**
 
@@ -60,10 +60,10 @@ A diferencia de los métodos tradicionales basados en inspección manual, esta p
 | 1 | Captura una imagen de la palta con ESP32-CAM |
 | 2 | Mide gases de descomposición con sensor MQ-135 |
 | 3 | Registra temperatura y humedad con DHT22 |
-| 4 | Clasifica la palta como *APTA* o *NO APTA* (Machine Learning con Edge Impulse) |
+| 4 | Clasifica la palta como **APTA** o **NO APTA** (Machine Learning con Edge Impulse) |
 | 5 | Estima los *días de vida útil restantes* (1-7 días según temperatura y gas) |
 | 6 | Muestra el resultado en pantalla OLED con alertas LED (verde/rojo) y buzzer |
-| 7 | Envía un *correo electrónico* al usuario con el estado y recomendación |
+| 7 | Envía un **correo electrónico** al usuario con el estado y recomendación |
 
 ### 🎯 Población objetivo
 
