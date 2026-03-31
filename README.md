@@ -8,6 +8,69 @@
 Somos el **Equipo 03** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Informática, Industrial y Ambiental.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
+---
+
+## 📌 Descripción
+
+El equipo 3 desarrollará FreshPalta, un dispositivo tecnológico inteligente que clasifica paltas según su tamaño, frescura y tiempo de vida útil utilizando ESP32-CAM, machine learning e IoT.
+
+El objetivo principal de este proyecto es reducir las pérdidas postcosecha, contribuyendo al cumplimiento de los ODS 2, 11, 12 y 13.
+
+---
+
+## ⚠️ Problemática en el Perú
+
+En la costa peruana, especialmente en las principales zonas productoras como Ica, La Libertad y Lima, la cadena postcosecha de la palta Hass enfrenta diversas dificultades documentadas por la industria y la academia:
+
+1. **Pérdidas por maduración acelerada y reducción de vida útil**
+
+La palta es una fruta climatérica que continúa su proceso de maduración después de la cosecha. Las temperaturas elevadas durante el almacenamiento y transporte aceleran este proceso, reduciendo drásticamente su vida útil.
+
+2. **Deterioro por almacenamiento inadecuado y exposición a condiciones variables**
+
+La exposición de la palta a temperaturas inadecuadas y a la luz acelera su maduración y favorece el desarrollo de daños fisiológicos.
+
+Estudios sobre frutas climatéricas indican que temperaturas superiores a 20–25 °C aumentan la tasa respiratoria y aceleran la pérdida de calidad, mientras que temperaturas bajas (menores a 7 °C) pueden causar daños por frío (chilling injury), manifestándose como pardeamiento de la pulpa y alteración del sabor.
+
+3. **Falta de herramientas accesibles para la evaluación de calidad**
+
+Actualmente, la evaluación de la calidad postcosecha de la palta se realiza mediante métodos subjetivos (presión manual u observación del color externo) o destructivos (corte del fruto para verificar su estado interno). Los dispositivos comerciales existentes tienen costos elevados, lo que dificulta su implementación en contextos rurales o de pequeña escala.
+
+4. **Impacto ambiental por residuos**
+
+El desperdicio de paltas genera un impacto negativo en el medio ambiente:
+- Los residuos orgánicos producen gases contaminantes durante su descomposición.
+- Se incrementa la cantidad de residuos sólidos en los mercados.
+- Se contribuye al cambio climático debido a la emisión de gases de efecto invernadero.
+
+---
+
+## 🥑 FreshPalta – Detector de madurez y factores ambientales
+### 💡 Propuesta de solución
+
+Este proyecto tiene como objetivo desarrollar un sistema inteligente que detecte la frescura de la palta. Para ello, se emplean sensores de gases, temperatura y humedad, junto con visión artificial e inteligencia artificial.
+
+La solución propuesta evalúa el estado interno de la palta Hass sin dañarla, mediante el análisis de gases emitidos y características visuales externas.
+
+A diferencia de los métodos tradicionales basados en inspección manual, esta propuesta permite una clasificación objetiva del producto. Además, estima el tiempo de vida útil restante, proporcionando información clave para la toma de decisiones.
+
+### ¿Qué hace el dispositivo?
+
+| Paso | Función |
+|------|---------|
+| 1 | Captura una imagen de la palta con ESP32-CAM |
+| 2 | Mide gases de descomposición con sensor MQ-135 |
+| 3 | Registra temperatura y humedad con DHT22 |
+| 4 | Clasifica la palta como *APTA* o *NO APTA* (Machine Learning con Edge Impulse) |
+| 5 | Estima los *días de vida útil restantes* (1-7 días según temperatura y gas) |
+| 6 | Muestra el resultado en pantalla OLED con alertas LED (verde/rojo) y buzzer |
+| 7 | Envía un *correo electrónico* al usuario con el estado y recomendación |
+
+### 🎯 Población objetivo
+
+Pequeños y medianos productores, distribuidores y comerciantes de palta Hass en la costa peruana (Ica, La Libertad y Lima) que no cuentan con herramientas tecnológicas accesibles para evaluar la calidad postcosecha.
+
+
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
   
 ## 🌾 ODS 2: Hambre Cero
@@ -76,23 +139,6 @@ Algunos ejemplos de proyectos que contribuyen a este objetivo son:
 
 ---
 
-## 📉 Problemática en el Perú
-
-En el Perú, millones de toneladas de alimentos se pierden a lo largo de la cadena de suministro, donde el 44% de la merma son frutas y vegetales (5,6 millones de toneladas al año). Esto constituye una problemática desafiante llamada “Desperdicio de alimentos”, lo cual impacta negativamente en la seguridad alimentaria y la nutrición, y contribuye significativamente a las emisiones de gases de efecto invernadero (metano).
-
-El tomate, siendo uno de los alimentos que sostiene la economía agrícola del país, principalmente en Ica y Lima, es de los alimentos más afectados por esta problemática. Más del 40% de la producción de tomates se pierde y desecha entre la etapa de cultivo hasta su distribución.
-
-Somos un grupo de estudiantes enfocados y comprometidos en el desarrollo de soluciones aplicadas a problemas ambientales, como lo es el desperdicio de alimentos. Por tal motivo, nuestro equipo sugiere esta nueva propuesta innovadora en la que integra tecnología y sostenibilidad para hacer frente a esta adversidad medioambiental.
-
- ---
-
-## 💡 Proyecto
-
-Sistema de Detección de Gases y Visión por IA para Monitoreo de Frescura en Tomates
-
-Nuestro proyecto consiste en un dispositivo tecnológico portátil que combina un sensor de gases (MQ-135) y una cámara con inteligencia artificial (ESP32-CAM) para monitorear en tiempo real el estado de frescura del tomate. El sistema detecta los gases de descomposición (como amoníaco y compuestos volátiles) liberados por el tomate al comenzar a deteriorarse, mientras que la inteligencia artificial captura y analiza visualmente el entorno del tomate (color, textura, manchas) para clasificarlo como "fresco" o "podrido". Este enfoque multisensor (gas + visión) permite una detección más precisa y temprana del deterioro, ayudando a agricultores, comerciantes y consumidores a tomar decisiones oportunas para reducir el desperdicio de tomates en mercados mayoristas y hogares peruanos, contribuyendo así a los ODS 2 (Hambre Cero), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima) .
-
----
 
 ## 📚 Fuentes
 
