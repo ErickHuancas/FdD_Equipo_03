@@ -23,25 +23,20 @@ El objetivo principal de este proyecto es reducir las pérdidas postcosecha, con
 En la costa peruana, especialmente en las principales zonas productoras como Ica, La Libertad y Lima, la cadena postcosecha de la palta Hass enfrenta diversas dificultades documentadas por la industria y la academia:
 
 1. **Pérdidas por maduración acelerada y reducción de vida útil**
-
-  La palta es una fruta climatérica que continúa su proceso de maduración después de la cosecha. Las temperaturas elevadas durante el almacenamiento y transporte aceleran este proceso, reduciendo drásticamente su vida útil.
+  La palta es una fruta climatérica que continúa su proceso de maduración después de la cosecha. Las temperaturas elevadas durante el almacenamiento y transporte    aceleran este proceso, reduciendo drásticamente su vida útil.
 
 2. **Deterioro por almacenamiento inadecuado y exposición a condiciones variables**
-
-  La exposición de la palta a temperaturas inadecuadas y a la luz acelera su maduración y favorece el desarrollo de daños fisiológicos.
-
-  Estudios sobre frutas climatéricas indican que temperaturas superiores a 20–25 °C aumentan la tasa respiratoria y aceleran la pérdida de calidad, mientras que temperaturas bajas (menores a 7 °C) pueden causar daños por frío (chilling injury), manifestándose como pardeamiento de la pulpa y alteración del sabor.
+   La exposición de la palta a temperaturas inadecuadas y a la luz acelera su maduración y favorece el desarrollo de daños fisiológicos.
+   Estudios sobre frutas climatéricas indican que temperaturas superiores a 20–25 °C aumentan la tasa respiratoria y aceleran la pérdida de calidad, mientras que     temperaturas bajas (menores a 7 °C) pueden causar daños por frío (chilling injury), manifestándose como pardeamiento de la pulpa y alteración del sabor.
 
 3. **Falta de herramientas accesibles para la evaluación de calidad**
-
-  Actualmente, la evaluación de la calidad postcosecha de la palta se realiza mediante métodos subjetivos (presión manual u observación del color externo) o destructivos (corte del fruto para verificar su estado interno). Los dispositivos comerciales existentes tienen costos elevados, lo que dificulta su implementación en contextos rurales o de pequeña escala.
+   Actualmente, la evaluación de la calidad postcosecha de la palta se realiza mediante métodos subjetivos (presión manual u observación del color externo) o         destructivos (corte del fruto para verificar su estado interno). Los dispositivos comerciales existentes tienen costos elevados, lo que dificulta su               implementación en contextos rurales o de pequeña escala.
 
 4. **Impacto ambiental por residuos**
-
   El desperdicio de paltas genera un impacto negativo en el medio ambiente:
-  - Los residuos orgánicos producen gases contaminantes durante su descomposición.
-  - Se incrementa la cantidad de residuos sólidos en los mercados.
-  - Se contribuye al cambio climático debido a la emisión de gases de efecto invernadero.
+    - Los residuos orgánicos producen gases contaminantes durante su descomposición.
+    - Se incrementa la cantidad de residuos sólidos en los mercados.
+    - Se contribuye al cambio climático debido a la emisión de gases de efecto invernadero.
 
 ---
 
