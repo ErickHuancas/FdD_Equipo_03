@@ -12,44 +12,48 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ## 📌 Descripción
 
-El equipo 3 desarrollará FreshPalta, un dispositivo tecnológico inteligente que clasifica paltas según su tamaño, frescura y tiempo de vida útil utilizando ESP32-CAM, machine learning e IoT.
+El equipo 03 desarrollará FreshTomate, un dispositivo tecnológico inteligente que clasifica tomates según su tamaño, frescura y tiempo de vida útil utilizando ESP32-CAM, machine learning e IoT.
 
-El objetivo principal de este proyecto es reducir las pérdidas postcosecha, contribuyendo al cumplimiento de los ODS 2, 11, 12 y 13.
+El objetivo principal de este proyecto es reducir las pérdidas postcosecha, contribuyendo al cumplimiento de los ODS 2 (Hambre Cero), 11 (Ciudades Sostenibles), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima).
 
 ---
 
 ## ⚠️ Problemática en el Perú
 
-En la costa peruana, especialmente en las principales zonas productoras como Ica, La Libertad y Lima, la cadena postcosecha de la palta Hass enfrenta diversas dificultades documentadas por la industria y la academia:
+En la costa peruana, especialmente en las principales zonas productoras como Ica, Lima y La Libertad, la cadena postcosecha del tomate enfrenta diversas dificultades documentadas por la industria y la academia:
 
 1. **Pérdidas por maduración acelerada y reducción de vida útil**
    
-   La palta es una fruta climatérica que continúa su proceso de maduración después de la cosecha. Las temperaturas elevadas durante el almacenamiento y               transporte aceleran este proceso, reduciendo drásticamente su vida útil.
+   El tomate es una fruta climatérica que continúa su proceso de maduración después de la cosecha. Las temperaturas elevadas durante el almacenamiento y               transporte aceleran este proceso, reduciendo drásticamente su vida útil.
 
 2. **Deterioro por almacenamiento inadecuado y exposición a condiciones variables**
 
-   La exposición de la palta a temperaturas inadecuadas y a la luz acelera su maduración y favorece el desarrollo de daños fisiológicos.
-   Estudios sobre frutas climatéricas indican que temperaturas superiores a 20–25 °C aumentan la tasa respiratoria y aceleran la pérdida de calidad, mientras que     temperaturas bajas (menores a 7 °C) pueden causar daños por frío (chilling injury), manifestándose como pardeamiento de la pulpa y alteración del sabor.
+   La exposición del tomate a temperaturas inadecuadas y a la luz acelera su maduración y favorece el desarrollo de daños fisiológicos:
+      - Temperaturas superiores a 25°C: Aumentan la tasa respiratoria y aceleran la pérdida de calidad, provocando ablandamiento rápido y mayor susceptibilidada            daños mecánicos .
+      - Temperaturas bajas (menores a 10°C): Pueden causar daño por frío (chilling injury), manifestándose como manchas superficiales, maduración irregular y               pérdida de sabor .
+      - Humedad relativa baja (<85%): Acelera la pérdida de agua, provocando arrugamiento y pérdida de peso .
+
+
 
 4. **Falta de herramientas accesibles para la evaluación de calidad**
 
-   Actualmente, la evaluación de la calidad postcosecha de la palta se realiza mediante métodos subjetivos (presión manual u observación del color externo) o         destructivos (corte del fruto para verificar su estado interno). Los dispositivos comerciales existentes tienen costos elevados, lo que dificulta su               implementación en contextos rurales o de pequeña escala.
+   Actualmente, la evaluación de la calidad postcosecha del tomate se realiza mediante métodos subjetivos (presión manual u observación del color externo) o          destructivos (corte del fruto para verificar su estado interno). Los dispositivos comerciales existentes tienen costos elevados, lo que dificulta su               implementación en contextos rurales o de pequeña escala.
 
 6. **Impacto ambiental por residuos**
 
-    El desperdicio de paltas genera un impacto negativo en el medio ambiente:
+    El desperdicio de Tomates genera un impacto negativo en el medio ambiente:
       - Los residuos orgánicos producen gases contaminantes durante su descomposición.
       - Se incrementa la cantidad de residuos sólidos en los mercados.
       - Se contribuye al cambio climático debido a la emisión de gases de efecto invernadero.
 
 ---
 
-## 🥑 FreshPalta – Detector de madurez y factores ambientales
+## 🍅 FreshTomate – Detector de Madurez y Factores Ambientales
 ### 💡 Propuesta de solución
 
-Este proyecto tiene como objetivo desarrollar un sistema inteligente que detecte la frescura de la palta. Para ello, se emplean sensores de gases, temperatura y humedad, junto con visión artificial e inteligencia artificial.
+Este proyecto tiene como objetivo desarrollar un sistema inteligente que detecte la frescura del tomate. Para ello, se emplean sensores de gases, temperatura y humedad, junto con visión artificial e inteligencia artificial.
 
-La solución propuesta evalúa el estado interno de la palta Hass sin dañarla, mediante el análisis de gases emitidos y características visuales externas.
+La solución propuesta evalúa el estado interno del tomate sin dañarla, mediante el análisis de gases emitidos y características visuales externas.
 
 A diferencia de los métodos tradicionales basados en inspección manual, esta propuesta permite una clasificación objetiva del producto. Además, estima el tiempo de vida útil restante, proporcionando información clave para la toma de decisiones.
 
@@ -57,7 +61,7 @@ A diferencia de los métodos tradicionales basados en inspección manual, esta p
 
 | Paso | Función |
 |------|---------|
-| 1 | Captura una imagen de la palta con ESP32-CAM |
+| 1 | Captura una imagen del tomate con ESP32-CAM |
 | 2 | Mide gases de descomposición con sensor MQ-135 |
 | 3 | Registra temperatura y humedad con DHT22 |
 | 4 | Clasifica la palta como **APTA** o **NO APTA** (Machine Learning con Edge Impulse) |
@@ -67,7 +71,7 @@ A diferencia de los métodos tradicionales basados en inspección manual, esta p
 
 ### 🎯 Población objetivo
 
-Pequeños y medianos productores, distribuidores y comerciantes de palta Hass en la costa peruana (Ica, La Libertad y Lima) que no cuentan con herramientas tecnológicas accesibles para evaluar la calidad postcosecha.
+Centros de acopio, plantas de distribución y empresas agroindustriales que manejan grandes volúmenes de tomate en etapa postcosecha, y que requieren optimizar los procesos de selección, clasificación y rotación de inventario para reducir pérdidas y mejorar la eficiencia logística.
 
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
