@@ -12,7 +12,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ## 📌 Descripción
 
-El equipo 03 desarrollará FreshTomate, un dispositivo tecnológico inteligente que clasifica tomates según su tamaño, frescura y tiempo de vida útil utilizando ESP32-CAM, machine learning e IoT.
+El equipo 03 desarrollará FreshTomate, un dispositivo tecnológico inteligente que clasifica tomates según su frescura y tiempo de vida útil utilizando ESP32-CAM, machine learning.
 
 El objetivo principal de este proyecto es reducir las pérdidas postcosecha, contribuyendo al cumplimiento de los ODS 2 (Hambre Cero), 11 (Ciudades Sostenibles), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima).
 
