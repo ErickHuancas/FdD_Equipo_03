@@ -2,15 +2,15 @@
 
 ## Situación Problemática
 
---
+---
 
 ## Contexto General
 
---
+
 
 ## Contexto en el sector comercial
 
---
+---
 
 # Propuesta de solución
 En el Perú, especialmente en regiones costeras como Ica, Lima y La Libertad, los supermercados enfrentan pérdidas significativas de tomate debido a condiciones inadecuadas de almacenamiento y exhibición. Factores como temperaturas no controladas, variaciones de humedad y largos tiempos de exposición aceleran el deterioro del producto, reduciendo su vida útil en los puntos de venta. Asimismo, la evaluación de la calidad del tomate se realiza principalmente mediante inspecciones visuales, las cuales son subjetivas y dependen del criterio del personal, lo que limita la detección temprana del deterioro; además, muchos establecimientos no cuentan con sistemas tecnológicos que permitan un monitoreo continuo, objetivo y en tiempo real.
@@ -22,7 +22,7 @@ Los datos que se recopilan de estos sensores se procesan con una herramienta de 
 Además, el sistema dispondrá de una fuente de alimentación con baterías, lo que posibilitará su funcionamiento independiente y hará más fácil su instalación en varios lugares dentro del área de recepción sin la necesidad de tener una conexión eléctrica fija.
 En resumen, el sistema permite vigilar las condiciones ambientales y el estado del tomate. Esto nos da alertas antes de que haya problemas y nos ayuda a tomar decisiones. Con tecnologías modernas y fáciles de usar, podemos mejorar la calidad, reducir el desperdicio de comida y gestionar mejor los supermercados. Además, esto se ajusta a la norma ISO 22000, que busca asegurar que los alimentos sean seguros y controlar los riesgos en toda la cadena de suministro del tomate.
 
---
+---
 
 # Objetivos
 
@@ -38,6 +38,8 @@ Diseñar e implementar un sistema ciberfísico inteligente denominado FreshTomat
 - Realizar pruebas de funcionamiento para validar la precisión en la detección de la frescura y el procesamiento de datos provenientes de los sensores y del sistema de visión artificial.
 - Evaluar el desempeño del sistema mediante pruebas experimentales, comparando los resultados obtenidos con métodos tradicionales de inspección manual en la detección temprana del deterioro del tomate, en condiciones similares al entorno comercial.
 
+
+---
 
 
 
