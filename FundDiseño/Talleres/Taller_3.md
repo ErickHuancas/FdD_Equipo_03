@@ -58,16 +58,52 @@ Diseñar e implementar un sistema ciberfísico inteligente denominado FreshTomat
 
 ---
 
+# CAPÍTULO II: ESTADO DE ARTE
+## Métodos tecnológicos para la detección de frescura y descomposición en frutas y vegetales
+De acuerdo con la literatura revisada (10,11), existen diferentes métodos tecnológicos para el monitoreo y detección de frescura en alimentos, que mediante el uso de microcontroladores, sensores de gas y algoritmos de inteligencia artificial (Edge Impulse) permiten clasificar el estado de maduración o descomposición de frutas y vegetales. 
+
+Asimismo, investigaciones recientes evidencian el uso de tecnologías IoT con dispositivos como ESP32, combinados con sensores y plataformas en la nube, para el monitoreo en tiempo real de la calidad de los alimentos durante su almacenamiento y transporte (11).
+
+
+Además de los artículos académicos revisados, existen implementaciones prácticas documentadas en plataformas de código abierto. Markel (2025) desarrolló un sistema de detección de madurez aplicable a frutas utilizando Machine Learning, logrando una precisión del 100% en sus pruebas con tomates, demostrando la viabilidad técnica del enfoque.
+
+---
+
+## Clasificación de tomates con ESP32-CAM y Edge Impulse
+
+Consiste en el uso de un microcontrolador ESP32-CAM con cámara integrada (OV2640, 2 megapíxeles) que captura imágenes de tomates en tiempo real. Estas imágenes son procesadas mediante un modelo de red neuronal convolucional profunda ResNet entrenado en la plataforma Edge Impulse. El sistema clasifica los tomates en diferentes categorías según su tamaño, madurez y calidad. Los datos se transmiten a una plataforma IoT en la nube, permitiendo a los agricultores acceder a la información de forma remota para tomar decisiones sobre la cosecha y reducción de desperdicios.(10)
+
+
+Entre sus principales ventajas destaca el uso de hardware de bajo costo, como el ESP32-CAM, así como el empleo de la plataforma Edge Impulse, que es gratuita. Además, el sistema presenta un gran potencial para reducir el desperdicio de alimentos a lo largo de la cadena de suministro.(10)
+
+
+Sin embargo, también presenta algunas limitaciones. Una de ellas es la limitada integración de sensores, ya que los propios autores señalan que, como trabajo futuro, será necesario incorporar sensores ambientales adicionales (como temperatura, humedad y gases). Asimismo, el sistema depende de la conexión a internet, por lo que, ante una falla en la conectividad, deja de funcionar correctamente.(10)
+
+## Desarrollo de una plataforma basada en IoT y aprendizaje automático para la evaluación de la madurez de la fruta y la detección de su deterioro.
+
+Se trata de la creación de un sistema que utiliza Internet de las Cosas (IoT) y aprendizaje automático con el fin de analizar la maduración y encontrar frutas en mal estado, haciendo uso para ello de un microcontrolador ESP32. El sistema cuenta con sensores como el SHT40 para determinar la humedad y la temperatura, y el SGP30 para identificar gases como compuestos orgánicos volátiles (TVOC), CO₂ equivalente, hidrógeno y etanol. Estos son indicadores fundamentales del proceso de descomposición y maduración. Los datos se recopilan en tiempo real y se transfieren a la plataforma ThingSpeak, que está basada en la nube. En esta plataforma, los datos son almacenados, procesados y visualizados para crear un conjunto de datos que facilita el entrenamiento de modelos de machine learning con el objetivo de prever el estado de la fruta desde su fase inicial hasta su deterioro.(11)
+
+
+Entre sus principales ventajas destaca la integración de sensores avanzados que pueden medir tanto las variables ambientales como los gases específicos relacionados con el proceso de maduración es uno de sus principales beneficios, lo cual facilita un análisis más exacto e imparcial. Además, el empleo del ESP32 hace posible la transmisión de datos sin cables y el seguimiento remoto en tiempo real a través de plataformas IoT como ThingSpeak. Asimismo, la creación de conjuntos de datos a través del tiempo mejora la exactitud de los modelos predictivos y favorece el avance de sistemas inteligentes utilizados en agricultura y conservación alimentaria.(11)
+
+
+Sin embargo, el sistema también presenta algunas limitaciones. Una de ellas es la necesidad de recolectar grandes volúmenes de datos durante varios días para lograr modelos de aprendizaje automático confiables. Asimismo, el rendimiento de los sensores de gases puede verse afectado por condiciones ambientales externas y por su propia degradación con el tiempo, lo que exige calibraciones y mantenimiento periódico. También existe la posibilidad de obtener mediciones alteradas debido a interferencias del entorno, lo que podría generar errores en la clasificación. Por otro lado, su implementación requiere cierto nivel de conocimiento técnico y una inversión inicial. Finalmente, el sistema depende de la conectividad a internet para el envío y visualización de datos en la nube, lo que puede representar una limitación en entornos con baja cobertura.(11)
+
+
+
+
 ## BIBLIOGRAFÍA
 - Córdova Peña, Moisés Teodoro, Pinasco Alegre, Renzo Giovanni, Pizarro Chirinos, Giannina Josefina, Quiñones Jara, Teófilo Marcelo, Córdova Peña. laneamiento Estratégico del Tomate en el Perú [Tesis de maestría]. [Surco, Perú]: Pontificia Universidad Católica del Perú; 2016. 
 - María Yovani Irigoín Lara. Vida útil de tomate (Solanum lycopersicum L. var. Sheila Victory F1) cosechado en dos estados de madurez y almacenados en diferentes tiempos y temperaturas [Tesis para optar el título profesional de Ingeniero en Industrias Alimentarias]. [Cajamarca, Perú]: Universidad Nacional de Cajamarca; 2024. 
 - Salas BDM, David O, Díaz P, Joel D, Lozano V, Vanessa C. GESTIÓN DE   INVENTARIOS PERECIBLES ADAPTADA PARA LAS DECISIONES SOBRE EL SUMINISTRO: ESTUDIO DE CASO DEL PROCESO DE PLANIFICACIÓN DEL ABASTECIMIENTO DE YOGURES EN HIPERMERCADOS TOTTUS.
-- Espinoza DRL. Gestión de Inventarios y la merma de productos perecederos en hipermercados Tottus. 2023;115. 
+- Espinoza DRL. Gestión de Inventarios y la merma de productos perecederos en hipermercados Tottus. 2023;115.
+- M R, Voola P. Developing an IoT and ML-driven platform for fruit ripeness evaluation and spoilage detection: A case study on bananas. E-Prime - Adv Electr Eng Electron Energy. el 1 de marzo de 2025;11:100896. doi:10.1016/j.prime.2025.100896
 - Aftab RA, Ahmad F, Monish M, Zaidi S. Postharvest quality assessment of tomato during storage: An experimental and ML fusion. J Stored Prod Res. 1 de mayo de 2025;112:102643. doi:10.1016/j.jspr.2025.102643
 - Kulkarni SM, Umadi S, R m A, Airani SS, Raikar MM. Grading and Classification of Tomatoes Using ESP32-CAM and Impulse Cloud based IoT Platform for Sustainability. Procedia Comput Sci. 1 de enero de 2025;Seventh International Conference on Recent Trends in Image Processing and Pattern Recognition (RTIP2R-2024)260:938-46. doi:10.1016/j.procs.2025.03.277 
 - Santos S. Guía de asignación de pines del ESP32-CAM AI-Thinker: Explicación del uso de los GPIO | Tutoriales de Random Nerd [Internet]. 10 de marzo de 2020 [citado 2 de abril de 2026]. Disponible en: https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/
 - Tangirbergen A, Tleubekova A, Yergaliuly G, Kurmanbayeva A, Soltabayev B, Soltabayeva A. Real-time detection of potato spoilage by gas sensor array coupled with microbiological analysis. LWT. 1 de enero de 2026;239:118926. doi:10.1016/j.lwt.2025.118926
-- K.VENKATARAMANAN, D.PRASANTH, V.SHEEBA, R.KUMARESAN. SMART FOOD SPOILAGE PREDICTION AND ALERT SYSTEM. Int J Nexus Knowl Multidiscip J Online ISSN 3108-0529. 3 de julio de 2025;1(1):62-9. 
+- K.VENKATARAMANAN, D.PRASANTH, V.SHEEBA, R.KUMARESAN. SMART FOOD SPOILAGE PREDICTION AND ALERT SYSTEM. Int J Nexus Knowl Multidiscip J Online ISSN 3108-0529. 3 de julio de 2025;1(1):62-9.
+- M R, Voola P. Developing an IoT and ML-driven platform for fruit ripeness evaluation and spoilage detection: A case study on bananas. E-Prime - Adv Electr Eng Electron Energy. 1 de marzo de 2025;11:100896. doi:10.1016/j.prime.2025.100896 	
 
 
 
