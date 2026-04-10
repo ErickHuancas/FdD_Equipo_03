@@ -11,7 +11,7 @@
    - link:
    - Imagen:
 
-  3. **Nombre**
+3. **Nombre**
    - Resumen:
    - Código:
    - link:
