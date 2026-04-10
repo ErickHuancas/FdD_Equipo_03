@@ -1,8 +1,9 @@
 ## Patentes
-1. **Nombre**
-   - Resumen:
-   - Código:
-   - link:
+1. **Método y dispositivo para detectar la madurez de frutas y verduras.**
+   - Resumen: La patente describe un dispositivo que utiliza sensores de color, grado de azúcar y dureza para detectar la madurez de frutas y verduras. Los datos son
+     procesados por módulos internos y los resultados se muestran en un visualizador.
+   - Código: CN114659918A
+   - link: [link](https://worldwide.espacenet.com/patent/search/family/082037969/publication/CN114659918A?q=detect%20maturity)
    - Imagen: 
     
 2. **Nombre**
