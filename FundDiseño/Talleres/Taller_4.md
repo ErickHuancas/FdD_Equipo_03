@@ -1,4 +1,4 @@
-## Patentes
+# Patentes
 1. **Método y dispositivo para detectar la madurez de frutas y verduras.**
    - Resumen: La patente describe un dispositivo que utiliza sensores de color, grado de azúcar y dureza para detectar la madurez de frutas y verduras. Los datos
      son procesados por módulos internos y los resultados se muestran en un visualizador.
