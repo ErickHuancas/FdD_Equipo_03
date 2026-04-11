@@ -21,7 +21,7 @@
 
 
       <div align="center">
-         <img src="/Recursos/Imágenes/Patente3.png" width="600"/>
+         <img src="/Recursos/Imágenes/Patente2.png" width="600"/>
       </div>
 
      
@@ -34,7 +34,7 @@
 
 
    <div align="center">
-         <img src="/Recursos/Imágenes/Patente1.png" width="600"/>
+         <img src="/Recursos/Imágenes/Patente3.png" width="600"/>
       </div>
 
 4. **Nombre**
