@@ -16,7 +16,8 @@
    - Resumen: La patente describe una máquina automatizada para medir el pH en tomates que utiliza visión                 artificial, sistemas electromecánicos y control automatizado para lograr mediciones precisas. Incorpora un          electrodo que mide pH y temperatura, junto con un sistema de calibración y limpieza que garantiza resultados        confiables. Además, emplea un cobot para posicionar los frutos correctamente, mejorando la exactitud del            análisis. En conjunto, esta tecnología está orientada al control de calidad en la industria alimentaria,            permitiendo evaluar la frescura y propiedades del tomate de manera eficiente.
    - Código:B08B 3/02
    - link: [ver patente](https://servicio.indecopi.gob.pe/portalSAE/Expedientes/consultaOIN.jsp)
-   - Año: 2024 de expediente : 2447
+   - Año: 2024
+   - Expediente : 2447
    - Imagen:
 
 
@@ -53,7 +54,8 @@
    - Resumen: La presente patente describe un dispositivo portátil de detección espectral para identificar residuos de pesticidas en frutos frescos de forma no destructiva. El sistema integra sensores multiespectrales y de intensidad lumínica, junto con una fuente de iluminación LED y un microcontrolador que procesa los datos obtenidos. Además, incorpora conectividad Bluetooth para la transmisión inalámbrica de información, permitiendo un análisis rápido y en tiempo real. Este dispositivo facilita la detección de pesticidas directamente en campo, mejorando el control de calidad y la seguridad de los productos agrícolas.
    - Código: G01N 21/25
    - link: [ver patente](https://servicio.indecopi.gob.pe/portalSAE/Expedientes/consultaOIN.jsp)
-   - Año: 2025 Expediente: 3116
+   - Año: 2025
+   - Expediente: 3116
    - Imagen:
 
 
