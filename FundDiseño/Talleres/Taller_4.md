@@ -41,4 +41,9 @@
    - Resumen: La presente patente describe un sistema inteligente para monitorear la frescura de productos agrícolas mediante sensores de temperatura, gases y otros parámetros, integrados con un microcontrolador. El dispositivo permite el seguimiento en tiempo real durante almacenamiento y transporte, transmitiendo datos para evaluar el estado del producto. Además, optimiza el consumo de energía y utiliza una referencia inicial para detectar cambios y prevenir el deterioro.
    - Código: US11408820B1
    - link: https://patents.google.com/patent/US11408820B1/en
-   - Imagen: 
+   - Imagen:
+
+
+<div align="center">
+         <img src="/Recursos/Imágenes/Patente 4.png" width="600"/>
+      </div>
