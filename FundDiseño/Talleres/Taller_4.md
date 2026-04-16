@@ -15,7 +15,7 @@
 2. **MÁQUINA MEDIDORA DE PH PARA TOMATES MEDIANTE ACCIONAMIENTO ELECTROMECÁNICO Y VISIÓN ARTIFICIAL**
    - Resumen: La patente describe una máquina automatizada para medir el pH en tomates que utiliza visión                 artificial, sistemas electromecánicos y control automatizado para lograr mediciones precisas. Incorpora un          electrodo que mide pH y temperatura, junto con un sistema de calibración y limpieza que garantiza resultados        confiables. Además, emplea un cobot para posicionar los frutos correctamente, mejorando la exactitud del            análisis. En conjunto, esta tecnología está orientada al control de calidad en la industria alimentaria,            permitiendo evaluar la frescura y propiedades del tomate de manera eficiente.
    - Código:B08B 3/02
-   - link: [ver patente]([https://servicio.indecopi.gob.pe/portalSAE/Personas/tituloOIN.jsp])
+   - link: [ver patente](https://servicio.indecopi.gob.pe/portalSAE/Personas/tituloOIN.jsp)
    - Año: 2024
    - Expediente : 2447
    - Imagen:
