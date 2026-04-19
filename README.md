@@ -14,7 +14,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 El equipo 03 desarrollará FreshTomato, un dispositivo tecnológico inteligente que clasifica tomates según su frescura y tiempo de vida útil utilizando ESP32-CAM, machine learning.
 
-El objetivo principal de este proyecto es reducir las pérdidas postcosecha, contribuyendo al cumplimiento de los ODS 2 (Hambre Cero), 11 (Ciudades Sostenibles), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima).
+El objetivo principal de este proyecto es reducir perdidas en mercados, contribuyendo al cumplimiento de los ODS 2 (Hambre Cero), 11 (Ciudades Sostenibles), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima).
 
 ---
 
@@ -65,9 +65,9 @@ A diferencia de los métodos tradicionales basados en inspección manual, esta p
 | 2 | Mide gases de descomposición con sensor MQ-135 |
 | 3 | Registra temperatura y humedad con DHT22 |
 | 4 | Clasifica la palta como **APTA** o **NO APTA** (Machine Learning con Edge Impulse) |
-| 5 | Estima los *días de vida útil restantes* (1-7 días según temperatura y gas) |
-| 6 | Muestra el resultado en pantalla OLED con alertas LED (verde/rojo) y buzzer |
-| 7 | Envía un **correo electrónico** al usuario con el estado y recomendación |
+| 5 | Estima los *días de vida útil restantes* (1-10 días según temperatura y gas) |
+| 6 | Muestra el resultado en pantalla OLED o una pagina web |
+| 7 | Envía una alerta al usuario con el estado y recomendación |
 
 ### 🎯 Población objetivo
 
