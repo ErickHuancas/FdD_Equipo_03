@@ -71,7 +71,7 @@ A diferencia de los métodos tradicionales basados en inspección manual, esta p
 
 ### 🎯 Población objetivo
 
-Centros de acopio, plantas de distribución y empresas agroindustriales que manejan grandes volúmenes de tomate en etapa postcosecha, y que requieren optimizar los procesos de selección, clasificación y rotación de inventario para reducir pérdidas y mejorar la eficiencia logística.
+Supermercados
 
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**
