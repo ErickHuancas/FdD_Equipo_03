@@ -64,9 +64,9 @@ A diferencia de los métodos tradicionales basados en inspección manual, esta p
 | 1 | Captura una imagen del tomate con ESP32-CAM |
 | 2 | Mide gases de descomposición con sensor MQ-135 |
 | 3 | Registra temperatura y humedad con DHT22 |
-| 4 | Clasifica la palta como **APTA** o **NO APTA** (Machine Learning con Edge Impulse) |
-| 5 | Estima los *días de vida útil restantes* (1-10 días según temperatura y gas) |
-| 6 | Muestra el resultado en pantalla OLED o una pagina web |
+| 4 | Clasifica el tomate como **Buen estado** o **mal estado** (Machine Learning con Edge Impulse) |
+| 5 | Estima los *días de vida útil restantes* (1-7 días según temperatura y gas) |
+| 6 | Muestra el resultado en una pagina web local|
 | 7 | Envía una alerta al usuario con el estado y recomendación |
 
 ### 🎯 Población objetivo
