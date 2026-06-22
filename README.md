@@ -171,7 +171,7 @@ An IoT-based smart plant monitoring and irrigation system with real-time environ
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="/Recursos/Imágenes/equipo.jpeg"/>
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="/Recursos/Imágenes/equipo.png"/>
   <em>Figura 1. Fotografía del equipo 03</em>
 </p>
 
@@ -181,7 +181,7 @@ An IoT-based smart plant monitoring and irrigation system with real-time environ
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/erick.jpeg" width="90"/> | **Erick Huancas Bereche** erick.huancas@upch.pe| Líder del equipo | Innovación social, sostenibilidad, liderazgo, emprendedor |
+| <img src="Recursos/Imágenes/Erick.jpg" width="90"/> | **Erick Huancas Bereche** erick.huancas@upch.pe| Líder del equipo | Innovación social, sostenibilidad, liderazgo, emprendedor |
 | <img src="/Recursos/Imágenes/Rose.jpeg" width="90"/> | **Rose Suazo Davila** rose.suazo@upch.pe | Responsable de investigación | Gestión ambiental, desarrollo comunitario, investigación cientifica |
 | <img src="/Recursos/Imágenes/Miguel.jpeg" width="90"/> | **Miguel Ruiz Trelles** miguel.ruiz@upch.pe | Diseñador/a | Diseño de prototipos, creatividad aplicada, impacto ambiental |
 | <img src="/Recursos/Imágenes/Paloma.jpeg" width="90"/> | **Paloma Velasquez Saforas** paloma.velasquez@upch.pe | Encargado/a de documentación | Comunicación científica, redacción técnica, investigación |
