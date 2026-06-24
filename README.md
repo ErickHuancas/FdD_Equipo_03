@@ -184,7 +184,7 @@ An IoT-based smart plant monitoring and irrigation system with real-time environ
 | <img src="Recursos/Imágenes/Erick.jpg" width="90"/> | **Erick Huancas Bereche** erick.huancas@upch.pe| Líder del equipo | Innovación social, sostenibilidad, liderazgo, emprendedor |
 | <img src="/Recursos/Imágenes/Rose.jpeg" width="90"/> | **Rose Suazo Davila** rose.suazo@upch.pe | Responsable de investigación | Gestión ambiental, desarrollo comunitario, investigación cientifica |
 | <img src="/Recursos/Imágenes/Miguel.jpeg" width="90"/> | **Miguel Ruiz Trelles** miguel.ruiz@upch.pe | Diseñador/a | Diseño de prototipos, creatividad aplicada, impacto ambiental |
-| <img src="/Recursos/Imágenes/Fernanda.jpeg" width="90"/> | **Paloma Velasquez Saforas** paloma.velasquez@upch.pe | Encargado/a de documentación | Comunicación científica, redacción técnica, investigación |
+| <img src="/Recursos/Imágenes/Fernanda.png" width="90"/> | **Paloma Velasquez Saforas** paloma.velasquez@upch.pe | Encargado/a de documentación | Comunicación científica, redacción técnica, investigación |
 | <img src="/Recursos/Imágenes/Jeremy.jpeg" width="90"/> | **Jeremy Mendez Ponce De Leon** jeremy.mendez@upch.pe | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
