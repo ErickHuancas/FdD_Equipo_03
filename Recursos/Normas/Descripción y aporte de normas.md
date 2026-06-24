@@ -1,6 +1,6 @@
 # Cuadros Técnicos de las Normas del Proyecto
 
-Este documento presenta los cuadros técnicos de las normas aplicadas al proyecto en un formato estructurado y limpio de Markdown.
+Este documento presenta los cuadros técnicos de las normas aplicadas al proyecto.
 
 ---
 
