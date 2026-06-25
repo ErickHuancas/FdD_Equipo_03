@@ -12,7 +12,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ## 📌 Descripción
 
-El equipo 03 desarrollará FreshTomato, un dispositivo tecnológico inteligente que clasifica tomates según su frescura y tiempo de vida útil utilizando ESP32-CAM, machine learning.
+El equipo 03 desarrollará FreshTomato, un dispositivo tecnológico inteligente que clasifica tomates según su frescura y tiempo de vida útil utilizando ESP32-S3-WROOM-CAM, machine learning.
 
 El objetivo principal de este proyecto es reducir perdidas en mercados, contribuyendo al cumplimiento de los ODS 2 (Hambre Cero), 11 (Ciudades Sostenibles), 12 (Producción y Consumo Responsable) y 13 (Acción por el Clima).
 
@@ -61,11 +61,11 @@ A diferencia de los métodos tradicionales basados en inspección manual, esta p
 
 | Paso | Función |
 |------|---------|
-| 1 | Captura una imagen del tomate con ESP32-CAM |
+| 1 | Captura una imagen del tomate con ESP32-S3-WROOM-CAM |
 | 2 | Mide gases de descomposición con sensor MQ-135 |
 | 3 | Registra temperatura y humedad con DHT22 |
 | 4 | Clasifica el tomate como **Buen estado** o **mal estado** (Machine Learning con Edge Impulse) |
-| 5 | Estima los *días de vida útil restantes* (1-7 días según temperatura y gas) |
+| 5 | Estima los *días de vida útil restantes* (1-12 días según temperatura y gas) |
 | 6 | Muestra el resultado en una pagina web local|
 | 7 | Envía una alerta al usuario con el estado y recomendación |
 

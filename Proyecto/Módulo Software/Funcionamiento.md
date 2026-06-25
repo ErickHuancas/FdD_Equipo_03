@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-El módulo de software constituye el núcleo del sistema, permitiendo la comunicación entre el sistema embebido ESP32-S3-WROOMCAM, el servidor Flask, el modelo de Machine Learning y la interfaz de usuario. Su función principal es procesar las imágenes y datos ambientales adquiridos, estimar la vida útil del tomate y almacenar los resultados obtenidos.
+El módulo de software constituye el núcleo del sistema, permitiendo la comunicación entre el sistema embebido ESP32-S3-WROOM-CAM, el servidor Flask, el modelo de Machine Learning y la interfaz de usuario. Su función principal es procesar las imágenes y datos ambientales adquiridos, estimar la vida útil del tomate y almacenar los resultados obtenidos.
 
 ---
 
@@ -95,7 +95,7 @@ La confianza obtenida por MobileNetV2 permite ajustar la estimación de forma co
    - Imagen capturada por la cámara.
 
 8. Cada etapa es enviada al servidor Flask mediante HTTP POST.
-9. Al completar las tres etapas, el ESP32-CAM notifica la finalización del proceso.
+9. Al completar las tres etapas, el ESP32-S3-WROOM-CAM notifica la finalización del proceso.
 10. Flask procesa las imágenes utilizando MobileNetV2.
 11. Se calcula la temperatura promedio y la concentración promedio de gases.
 12. Se estima la vida útil restante del tomate.
